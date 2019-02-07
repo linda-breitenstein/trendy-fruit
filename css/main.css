@@ -16,6 +16,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
 .pink {
   background-color: #e97065;
 }
@@ -29,13 +33,13 @@ html {
 }
 
 .pink h2 {
-  font-family: 'Rammetto One', cursive;
+  font-family: "Rammetto One", cursive;
 }
 
 .yellow h2 {
-  font-family: 'Gravitas One', cursive;
+  font-family: "Gravitas One", cursive;
 }
 
 .orange h2 {
-  font-family: 'Comfortaa', cursive;
+  font-family: "Comfortaa", cursive;
 }
