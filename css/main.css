@@ -27,3 +27,15 @@ html {
 .orange {
   background-color: #e86033;
 }
+
+.pink h2 {
+  font-family: 'Rammetto One', cursive;
+}
+
+.yellow h2 {
+  font-family: 'Gravitas One', cursive;
+}
+
+.orange h2 {
+  font-family: 'Comfortaa', cursive;
+}
